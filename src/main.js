@@ -2,6 +2,8 @@ import './assets/main.css'
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
+// ÒýÈëcommon.scss
+import '@/styles/common.scss'
 
 import App from './App.vue'
 import router from './router'
